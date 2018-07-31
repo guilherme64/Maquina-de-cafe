@@ -1,0 +1,58 @@
+{
+	"tipos_cafe": [
+	{
+		"id": "1",
+		"nome": "preto",
+		"qtd_cafe": "20", 
+		"qtd_leite": "0", 
+		"qtd_acucar": "20",
+		"qtd_chocolate": "0",
+		"valor": "2"
+	},
+	{
+		"id": "2",
+		"nome": "com leite", 
+		"qtd_cafe": "20", 
+		"qtd_leite": "20", 
+		"qtd_acucar": "20",
+		"qtd_chocolate": "0",
+		"valor": "3"
+	},
+	{
+		"id": "3",
+		"nome": "capuccino", 
+		"qtd_cafe": "20", 
+		"qtd_leite": "20", 
+		"qtd_acucar": "20",
+		"qtd_chocolate": "20",
+		"valor": "4"
+	},
+	{
+		"id": "4",
+		"nome": "preto amargo", 
+		"qtd_cafe": "20", 
+		"qtd_leite": "0", 
+		"qtd_acucar": "10",
+		"qtd_chocolate": "0",
+		"valor": "1.5"
+	},
+	{
+		"id": "5",
+		"nome": "com leite amargo", 
+		"qtd_cafe": "20", 
+		"qtd_leite": "20", 
+		"qtd_acucar": "10",
+		"qtd_chocolate": "0",
+		"valor": "2.5"
+	},
+	{
+		"id": "6",
+		"nome": "capuccino amargo", 
+		"qtd_cafe": "20", 
+		"qtd_leite": "20", 
+		"qtd_acucar": "10",
+		"qtd_chocolate": "20",
+		"valor": "3.5"
+	}
+]
+}
